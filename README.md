@@ -5,7 +5,7 @@
 This project was developed as training in CSS responsive layout
 
 <p align=center>
-<img src="./images/barbeque.png" height=400></img>
+<img src="./img/designer.png" height=400></img>
 </p>
 
 ## Built with
